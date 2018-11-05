@@ -1,39 +1,30 @@
-## 欢迎我的大茉茉
+## 欢迎来到我的博客
 
-茉茉
+### 新人求指导
 
-咕嘿嘿
-
-### 4点pm
-
-茉茉终于睡醒了qaq
+人家很可爱的qaq
 
 ```markdown
 
-茉茉醒了我该说些什么不让茉茉生气呢
+我需要好好提升自己的能力呢
 
-怎么办 怕是做不到啊qaq
+怎么办 怕是要好久啊qaq
 
 emmm...
 
-if(momo==zhu)
+if(me==zhu)
 {
-   I'm also a pig.
+   I'm a pig.
 }
 else 
 {
-   Momo is xiannv, I'm the person who love her.
+   I'm xiannv, I'm the person who love god.
 }
 
 ```
 
-
-### 6点pm
-
-这个时间你要吃饭吧
-
-提前祝茉茉用餐愉快
-
 ### last but not least
 
-茉茉我喜欢你（皮这一下很开心）
+qaq卖个萌
+
+（皮这一下很开心）
